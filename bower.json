@@ -1,0 +1,8 @@
+{
+	"name": "CNJS-Accordion-TEST-SITE",
+	"version": "0.2.2",
+	"dependencies": {
+		"jquery": "~2.1.4",
+		"CNJS-Accordion": ""
+	}
+}
