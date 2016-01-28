@@ -1,7 +1,7 @@
 {
 	"name": "CNJS-Accordion-TEST-SITE",
 	"description": "Test site for Accordion component",
-	"version": "0.2.2",
+	"version": "0.2.3",
 	"main": "Gruntfile.js",
 	"devDependencies": {
 		"grunt": "~0.4.5",
